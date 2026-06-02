@@ -1,0 +1,15 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+*.mars
+*.ctx
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+*.sublime-project
+
+# Environment variables and secrets
+.env
+.env.local
